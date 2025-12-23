@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Let me battle",
+  "base_artist": "9Lana",
+  "createdAt": "2025-12-23T06:28:44.942068Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let me battle",
+      "artist": "9Lana",
+      "has_synced": true,
+      "path": "select/01_Let_me_battle_9Lana.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let me battle",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/02_Let_me_battle_9Lana.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let me battle (Instrumental)",
+      "artist": "9Lana",
+      "has_synced": true,
+      "path": "select/03_Let_me_battle_(Instrumental)_9Lana.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let me battle",
+      "artist": "9Lana",
+      "has_synced": true,
+      "path": "select/04_Let_me_battle_9Lana.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Let me battle (Anime Size)",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/05_Let_me_battle_(Anime_Size)_9Lana.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let me battle",
+      "artist": "9Lana/KANKAN/Giga/TeddyLoid",
+      "has_synced": true,
+      "path": "select/06_Let_me_battle_9Lana_KANKAN_Giga_TeddyLoid.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let me battle",
+      "artist": "9Lana feat. 缶缶",
+      "has_synced": true,
+      "path": "select/07_Let_me_battle_9Lana_feat._缶缶.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Let me battle",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/pl_01_Let_me_battle_9Lana.txt"
+    }
+  ]
+}
